@@ -1,0 +1,32 @@
+#inicio{
+    height: 830px; 
+}
+#Inicio::before{
+    background: url('imagem.png') no-repeat center center/cover;
+    height: 900px;
+    width: 200%; /*definira posição da imagem aqui */
+}
+.headings{
+    font-size: 1.5rem;
+}
+#pic img{
+    width: 300px;
+    height: 175px;
+}
+#intro h2{
+    font-size: 1.5rem;
+}
+.gallery img{
+    width: 250px;
+    height: 150px;
+    margin: 10px;
+}
+#input{
+    width: 80%;
+}
+#msg{
+    width: 70%;
+}
+#enviar{
+    width: 20%;
+}
